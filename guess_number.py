@@ -5,7 +5,7 @@
 from random import randint
 
 # Получаем случайное число в диапазоне от 1 до 100.
-number = randint(1, 101)
+number = randint(1, 102git)
 print('Угадайте число от 1 до 100')
 
 while True:
